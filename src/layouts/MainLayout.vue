@@ -62,8 +62,8 @@
             <q-avatar size="56px" class="q-mb-sm">
               <img src="../assets/perfil.jpg">
             </q-avatar>
-            <div class="text-weight-bold">Neves Antonio </div>
-            <div>@nevesantonio</div>
+            <div class="text-weight-bold"> Neves Antonio Pilale </div>
+            <div> @nevesantonio </div>
           </div>
         </q-img>
       </q-drawer>
