@@ -38,7 +38,7 @@
               </q-item-section>
 
               <q-item-section>
-                Todo
+                Tarefas
               </q-item-section>
             </q-item>
 
@@ -50,7 +50,7 @@
               </q-item-section>
 
               <q-item-section>
-                help
+                Ajuda
               </q-item-section>
             </q-item>
 
