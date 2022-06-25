@@ -8,6 +8,9 @@
     <p>
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea aliquam, natus, aliquid pariatur praesentium repudiandae accusantium consequatur incidunt qui tempora, sit vero eveniet! Dolores similique laudantium quaerat? Consequuntur, itaque fugit.
     </p>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea aliquam, natus, aliquid pariatur praesentium repudiandae accusantium consequatur incidunt qui tempora, sit vero eveniet! Dolores similique laudantium quaerat? Consequuntur, itaque fugit.
+    </p>
   </q-page>
 </template>
 
